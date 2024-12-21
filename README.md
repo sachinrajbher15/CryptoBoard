@@ -20,5 +20,8 @@ CryptoBoard is a dynamic web application designed to fetch and display real-time
 - Provides a search bar to filter coins by name or symbol.
 - Includes buttons to sort the data by market cap or percentage change.
 
+# Screenshot
+![](ss/ss1.png)
+
 # Live Demo
 Check out the live application here: [CryptoBoard Live Demo](https://acciojobs-cryptodashboard.netlify.app/)
