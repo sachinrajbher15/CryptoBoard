@@ -21,4 +21,4 @@ CryptoBoard is a dynamic web application designed to fetch and display real-time
 - Includes buttons to sort the data by market cap or percentage change.
 
 # Live Demo
-Check out the live application here: CryptoBoard Live Demo
+Check out the live application here: [CryptoBoard Live Demo](https://acciojobs-cryptodashboard.netlify.app/)
